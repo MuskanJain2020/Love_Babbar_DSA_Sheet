@@ -5,7 +5,11 @@ Example 1:
 Input : str = "abc"
 Output: a ab abc ac b bc c
 Explanation : There are 7 substrings that 
-can be formed from abc. */
+can be formed from abc. 
+Time Complexity: O(2n) where n is the length of the string
+Expected Space Complexity : O(n * 2n)
+ 
+*/
 
 
 class Solution
