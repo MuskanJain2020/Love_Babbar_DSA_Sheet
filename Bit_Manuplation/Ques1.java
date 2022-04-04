@@ -3,7 +3,7 @@ Approach 1 : using while loop
  TC : theta(no of bits in n) 
  */
 
-public static int  void CountBits(int n ){
+public static int CountBits(int n ){
   int res = 0 ;
   while (n>0){
     if ((n & 1) == 1){
@@ -14,7 +14,7 @@ public static int  void CountBits(int n ){
 /* Approach 2 : Brian Kerningam's Algorithm 
                TC = THETA(no of set bits) */
   
-public static int  void CountSetBits(int n ){
+public static int CountSetBits(int n ){
   int res = 0 ;
   while (n>0){
     n &(n-1)
