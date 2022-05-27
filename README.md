@@ -7,12 +7,4 @@ Credits
 question list is shared by YouTuber Love Babbar 450 questions DSA Cracker Sheet
 How to use this 450 questions DSA Cracker Sheet ? video
 Resource Credits
-Here I will list all resource credits
 
-geeks for geeks
-Love Babbar
-Aditya Verma
-Pepcoding
-Code Library
-Leetcode
-Scaler Academy
