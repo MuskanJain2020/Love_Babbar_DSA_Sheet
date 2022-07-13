@@ -19,6 +19,7 @@ public class Island {
                 else if(k<m){
                     count++ ;
                     k = s+k ;
+                     k= k-m ;
 
                 }
             }
